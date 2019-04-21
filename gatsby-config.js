@@ -3,6 +3,7 @@ module.exports = {
     title: `Blog IT_Blague`,
     description: `Eventually this will be a place where I unload my thoughts. About various aspects of this industry, whichi refuse to let anyone take the love I have for it away.`,
     author: `Alex Alexis`,
+    createdAt: 2019,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
